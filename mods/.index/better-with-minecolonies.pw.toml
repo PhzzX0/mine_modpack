@@ -1,0 +1,17 @@
+filename = 'betterwithminecolonies-1.20-1.19.19.jar'
+name = 'Better With Minecolonies'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20-1.19.19'
+
+[download]
+hash = 'a06a854a8a0d73c2f2761baa3afc4362612828f5532d914f742b4c30bdacf9c25cfe973aff9c56dbc7f38dc4423821e2c9bdd423e5713f70d298c95a7f8a48b0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AWfVANdh/versions/kQ8njDwr/betterwithminecolonies-1.20-1.19.19.jar'
+
+[update.modrinth]
+mod-id = 'AWfVANdh'
+version = 'kQ8njDwr'

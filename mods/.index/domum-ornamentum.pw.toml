@@ -1,0 +1,17 @@
+filename = 'domum_ornamentum-1.20.1-1.0.292-snapshot-universal.jar'
+name = 'Domum Ornamentum'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'domum_ornamentum-1.20.1-1.0.292-snapshot-universal.jar'
+
+[download]
+hash = '1b3b96dda8dd4541afba652c7a975ba439fc1026'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7185824
+project-id = 527361

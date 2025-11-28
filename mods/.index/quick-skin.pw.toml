@@ -1,0 +1,17 @@
+filename = 'Quick Skin - Forge - 1.20.1-2.5.5.jar'
+name = 'Quick Skin'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Quick Skin - Forge - 1.20.1-2.5.5.jar'
+
+[download]
+hash = '442d40ed0eb8eecc7d4b9ff33c3ae3c43b44e1d5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7226544
+project-id = 1323980
